@@ -1,0 +1,3 @@
+/home/hayk/Desktop/CPP_HOMEWORKS/FirstHomeWork/cmake-build-debug/CMakeFiles/FirstHomeWork.dir
+/home/hayk/Desktop/CPP_HOMEWORKS/FirstHomeWork/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hayk/Desktop/CPP_HOMEWORKS/FirstHomeWork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
